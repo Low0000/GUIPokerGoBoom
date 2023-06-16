@@ -37,11 +37,12 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 ## How to Use
 1. Download and install the Zulu17 compiler from the provided link.
 2. Open the project in Visual Studio Code.
-3. Compile the Java code using the Zulu17 compiler.
-4. Compile Command: ***javac GoBoomGame.java***
-5. Run the compiled code to start the game.
-6. Run compiled code command: ***java GoBoomGame***
-7. Follow the on-screen instructions to play the game.
+3. Add all the .jar file in ./lib/ directory into the VSCode Referenced Library
+4. Compile the Java code using the Zulu17 compiler.
+5. Compile Command: ***javac GoBoomGame.java***
+6. Run the compiled code to start the game.
+7. Run compiled code command: ***java GoBoomGame***
+8. Follow the on-screen instructions to play the game.
 
 Enjoy playing Poker Go Boom!
 
