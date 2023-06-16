@@ -1,6 +1,9 @@
 # GUIPokerGoBoom
 
-<h1>A desktop Poker Game Developed By Java</h1>
+<h1>A desktop Poker Game Developed By Java [ Poker Go Boom Game ]</h1>
+
+<h2>Game Preview</h2>
+
 ![Screenshot_1](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/6cf5ab63-b45b-487a-b6de-0fffabd37403)
 
 ![Screenshot_2](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/f085c920-265a-404f-9893-581a60d9cd1a)
