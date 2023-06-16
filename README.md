@@ -23,13 +23,13 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 4. **Screenshot 4**: Game Play Display
    ![Screenshot 4](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/3ca14caa-ce9c-4dd2-946f-6be0eb7c830c)
 
-5. **Screenshot 5**: The save game screen, where players can save their progress and continue the game later.
+5. **Screenshot 5**: Player Choose Card To Play
    ![Screenshot 5](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/1e381aac-ef7b-4b1b-ba12-db98a526ba8a)
 
-6. **Screenshot 6**: The leaderboard screen, displaying the top players and their scores.
+6. **Screenshot 6**: View Card On Hand For Each Players
    ![Screenshot 6](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/5063af97-b8ef-48c1-8b08-35793d275a03)
 
-7. **Screenshot 7**: The game over screen, shown when the player's balance reaches zero, indicating the end of the game.
+7. **Screenshot 7**: Save Game
    ![Screenshot 7](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/2df10fcf-eb32-479f-bfc3-d6a40b2c4c73)
 
 ## How to Use
