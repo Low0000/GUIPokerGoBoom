@@ -9,6 +9,8 @@ To compile and run this game, you will need:
 - Compiler: OpenJDK version "17.0.6" (LTS) - Zulu17
 
 You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit&package=jdk-fx#zulu).
+1. **Screenshot VSCODE**: JAVAFX JDK
+![Screenshot_8](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/4509f7eb-ff8d-4f29-94d5-7a4a96ada978)
 
 ## Game Preview
 1. **Screenshot 1**: The Main Page Of The Game.
