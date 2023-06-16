@@ -11,16 +11,16 @@ To compile and run this game, you will need:
 You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit&package=jdk-fx#zulu).
 
 ## Game Preview
-1. **Screenshot 1**: The main menu of the game, where players can start a new game, load a saved game, or exit.
+1. **Screenshot 1**: The Main Page Of The Game.
    ![Screenshot 1](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/6cf5ab63-b45b-487a-b6de-0fffabd37403)
 
-2. **Screenshot 2**: The game setup screen, where players can customize various game settings such as the number of players and difficulty level.
+2. **Screenshot 2**: Start a new game OR load progress of saved game.
    ![Screenshot 2](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/f085c920-265a-404f-9893-581a60d9cd1a)
 
-3. **Screenshot 3**: A gameplay screenshot showing the player's hand, the community cards, and the available actions (e.g., fold, bet, call).
+3. **Screenshot 3**: List Game Progress That Had Saved Before. Able To Restore / Delete Saved Game / start A New Game / EXIT
    ![Screenshot 3](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/8c10c2ed-b0d4-481f-a81e-278df7997129)
 
-4. **Screenshot 4**: The result screen displayed after a game round, showing the winning hand and the amount won.
+4. **Screenshot 4**: Game Play Display
    ![Screenshot 4](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/3ca14caa-ce9c-4dd2-946f-6be0eb7c830c)
 
 5. **Screenshot 5**: The save game screen, where players can save their progress and continue the game later.
