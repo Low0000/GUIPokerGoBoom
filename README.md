@@ -46,4 +46,4 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 
 Enjoy playing Poker Go Boom!
 
-Note: Make sure to have Java installed on your system and all the requirements had done before running the game.
+Note: Make sure to have Java installed on your system and all the necessary requirements have been fulfilled before running the game.
