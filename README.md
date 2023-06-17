@@ -28,6 +28,7 @@ No | Feature                                                                    
 8  | The winner of a trick leads the next card.                                      |  Y
 
 
+
 ## C. Part 2 Feature Completion
 
 Mark Y for Complete, P for Partial done, N for Not implemented.
@@ -35,13 +36,13 @@ Mark Y for Complete, P for Partial done, N for Not implemented.
 No | Feature                                                                          | Completed (Y/P/N)
 -- | -------------------------------------------------------------------------------- | -----------------
 1  | If a player cannot follow suit or rank, the player must draw from the deck       |  Y
-   | until a card can be played.                                                      |  Y
+   | until a card can be played.                                                      | 
 2  | When the remaining deck is exhausted and the player cannot play,                 |  Y
-   | the player does not play in the trick.                                           |  Y
+   | the player does not play in the trick.                                           |
 3  | Finish a round of game correctly. Display the score of each player.              |  Y
 4  | Can exit and save the game (use file or database).                               |  Y
 5  | Can resume the game. The state of the game is restored when resuming a game      |  Y
-   | (use file or database).                                                          |  Y
+   | (use file or database).                                                          |
 6  | Reset the game. All scores become zero. Round and trick number restart from 1.   |  Y
 7  | Support GUI playing mode (cards should be faced up or down as in the real game). |  Y
    | The GUI can be in JavaFX, Swing, Spring, or Android.                             |  
@@ -55,7 +56,7 @@ No | Feature                                                                    
 
 ## D. Link to Part 2 GitHub Repo
 
-[https://link_to_your_GitHub_repo](https://github.com/Low0000/GUIPokerGoBoom)
+[LINK TO PART 2 POKER GOBOOM GAME GUI](https://github.com/Low0000/GUIPokerGoBoom)
 
 
 ## Description
